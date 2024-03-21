@@ -17,18 +17,21 @@ This is a RESTful API built using Laravel to search and sort hotels based on var
 
 1. Clone the repository:
 
-   
-   git clone https://github.com/your-username/hotel-search.git
+   ```````````````````````
+   git clone https://github.com/AHMED7SERAG/hotels.git
+
+   ```````````````````````
 Navigate to the project directory:
 
 
 
-cd hotel-search
+cd hotels
 Install dependencies:
 
 
-
+```````````````````````
 composer install
+```````````````````````
 Usage
 Fetch Hotels
 To fetch hotels, send a GET request to the /hotels endpoint.
