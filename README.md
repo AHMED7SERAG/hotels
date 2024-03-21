@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 markdown
 # Hotel Search API
@@ -61,11 +60,9 @@ To run tests, execute:
 
 `````
 php artisan test
+
 `````
 Notes
 Hotel data is fetched from a JSON object stored within the controller.
 This project does not use a database or external services for hotel data.
 Ensure to provide valid query parameters for searching and sorting.
-=======
-# hotels
->>>>>>> d45a0250e8dbc0a0f886b6d1953146d839e8d16c
